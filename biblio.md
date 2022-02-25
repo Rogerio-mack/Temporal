@@ -85,11 +85,12 @@ os datasets empregados, código e vídeos tutoriais.*
 
 > *Texto avançado que modelos de componentes não observados.*
 
-## Livros de Python
+### Python & Deep Learning
 
 * KONG, Qingkai; SIAUW, Timmy; BAYEN, Alexandre. **Python Programming and Numerical Methods: A Guide for Engineers and Scientists.** Academic Press, 2020. https://pythonnumericalmethods.berkeley.edu/notebooks/Index.html. Acesso em: 2022.02.25.
 
 * VANDERPLAS, Jake. **Python data science handbook: Essential tools for working with data.** O'Reilly Media, Inc., 2016. https://jakevdp.github.io/PythonDataScienceHandbook/ Acesso em: 2022.02.25.
 
+* ZHANG, Aston et al. **Dive into deep learning.** arXiv preprint arXiv:2106.11342, 2021. https://d2l.ai/. Acesso em: 2022.02.25.
 
 
