@@ -12,3 +12,4 @@ Apêndices (Complementos Digitais)
 
 * Introdução ao Pyhton, Pandas e Matplotlib
 * Modelos de Regressão
+* Tratamento de Datas
