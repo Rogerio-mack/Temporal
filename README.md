@@ -5,7 +5,7 @@ Projeto de Livro de Séries Temporais
 
 2. Decomposição e Tratamento de Séries Temporais
 
-*Diferenças de Regressão e predição de Séries; Modelos aditivos e multiplicativos; Estacionariedade; Tendência; Sazonalizadade; Problema de Datas; Interpolação;*
+*Diferenças de Regressão e predição de Séries; Modelos aditivos e multiplicativos; Estacionariedade; Tendência; Sazonalizadade; Problema de Datas; Interpolação; Análise de Resíduos;*
 
 3. Modelos de Predição por Suavização
 
