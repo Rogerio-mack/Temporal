@@ -1,5 +1,6 @@
-# Temporal
-Projeto de Livro de Séries Temporais
+# Séries Temporais para Engenharia e outras Áreas
+
+Prefácio
 
 1. Introdução  
 
@@ -9,20 +10,25 @@ Projeto de Livro de Séries Temporais
 
 3. Modelos de Predição por Suavização
 
-*Suavização Exponencial* 
+*Suavização Exponencial; Métricas de Aproximação, MEA, MSE, F1, RMSE* 
 
 4. Modelos de Predição ARMA e ARIMA
 
-5. Análise Spectral (?)
-5. Modelos ARIMAX (?) SARIMAX (?)
+*Validação Cruzada em Séries Temporais; Auto Correlação; Auto Correlação Total e Parcial; Seleção de Parâmetros do Modelo; detrending*
 
-6. Modelos Neurais e Frameworks
+5. Modelos SARIMAX e Multidimensionais
 
-*Redes neurais recorrentes e LSTM; Prophet;*
+*Sazonalidade; Empregando múltiplas séries de dados*
 
-Apêndices (Complementos Digitais)
+6. Aprendizado de Máquina 
+
+*Modelos de Aprendizado de Máquina; Regressores Clássicos; Modelos Neurais e de Redes Profundas; Rede LSTM*
+
+7. Conclusão
+
+### Apêndices (Suplementos Digitais)
 
 * Introdução ao Pyhton, Pandas e Matplotlib
-* Modelos de Regressão
-* Tratamento de Datas
-* Filtros Kalman
+* Tratamento de Datas em Python
+* Modelo de Regressão Clássico
+* Bases de Dados Empregadas
