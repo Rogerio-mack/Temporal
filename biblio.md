@@ -85,7 +85,7 @@ os datasets empregados, código e vídeos tutoriais.*
 
 > *Texto avançado que modelos de componentes não observados.*
 
-### Python & Deep Learning
+### Python, Aprendizado de Máquina e Deep Learning
 
 * KONG, Qingkai; SIAUW, Timmy; BAYEN, Alexandre. **Python Programming and Numerical Methods: A Guide for Engineers and Scientists.** Academic Press, 2020. https://pythonnumericalmethods.berkeley.edu/notebooks/Index.html. Acesso em: 2022.02.25.
 
