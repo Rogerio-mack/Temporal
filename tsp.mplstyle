@@ -5,7 +5,7 @@ figure.titlesize:   18
 figure.titleweight: bold
 
 ### Axes
-axes.titlesize : 16
+axes.titlesize : 14
 axes.titleweight: bold
 axes.labelsize : large
 
