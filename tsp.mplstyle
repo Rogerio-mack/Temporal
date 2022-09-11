@@ -11,7 +11,7 @@ axes.labelsize : large
 
 ### Lines
 lines.linewidth : 1.0
-lines.markersize : 10
+lines.markersize : 5
 hatch.linewidth: 0.25
 patch.antialiased   : True
 
