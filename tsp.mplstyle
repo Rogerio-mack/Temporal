@@ -16,7 +16,7 @@ hatch.linewidth: 0.25
 patch.antialiased   : True
 
 ### Ticks
-xtick.labelsize: 8
+xtick.labelsize: 10
 xtick.top: True
 xtick.bottom: True
 xtick.major.size: 4.0
@@ -31,7 +31,7 @@ xtick.minor.top: True
 xtick.minor.bottom: True
 xtick.major.pad: 5.0
 xtick.minor.pad: 5.0
-ytick.labelsize: 8
+ytick.labelsize: 10
 ytick.left: True
 ytick.right: True
 ytick.major.size: 4.0
